@@ -1,8 +1,10 @@
 # Line It Up
 
-One-click transform your images into plotter-style line drawings. Alternatively, create single line SVG illustrations from your images. Use sliders to adjust output to your liking.
+One-click transform any image into a plotter-style SVG line drawing. AI-powered pencil uses graph heuristics to draw lines closely resembling pixels in original image.
 
-Created initially as creative experiment / for extra content in portfolio. Made public once I brought code to reasonable level of convenience for average non-coder (no programming experience) to be able to use. However, please read Creative License before using.
+Use sliders to adjust output for precision. Please check Creative License before using.
+
+
 
 ![image](https://user-images.githubusercontent.com/63992417/213899392-bb91bcb2-375d-4ceb-9792-653ec6eee883.png)
 
